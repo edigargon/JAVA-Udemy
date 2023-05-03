@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/COMPLETO - Prof. Nelio Alves.iml" filepath="$PROJECT_DIR$/.idea/COMPLETO - Prof. Nelio Alves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao1-Introducao/Secao1-Introducao.iml" filepath="$PROJECT_DIR$/Secao1-Introducao/Secao1-Introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao10-Comportamento-de-Memoria-Arrays-Lista/Secao10-Comportamento-de-Memoria-Arrays-Lista.iml" filepath="$PROJECT_DIR$/Secao10-Comportamento-de-Memoria-Arrays-Lista/Secao10-Comportamento-de-Memoria-Arrays-Lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao2-Conceitos-de-Programacao/Secao2-Conceitos-de-Programacao.iml" filepath="$PROJECT_DIR$/Secao2-Conceitos-de-Programacao/Secao2-Conceitos-de-Programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao3-Introducao-a-Linguagem-Java/Secao3-Introducao-a-Linguagem-Java.iml" filepath="$PROJECT_DIR$/Secao3-Introducao-a-Linguagem-Java/Secao3-Introducao-a-Linguagem-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao4-Estrutura-Sequencial/Secao4-Estrutura-Sequencial.iml" filepath="$PROJECT_DIR$/Secao4-Estrutura-Sequencial/Secao4-Estrutura-Sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao5-Estrutura-Condicional/Secao5-Estrutura-Condicional.iml" filepath="$PROJECT_DIR$/Secao5-Estrutura-Condicional/Secao5-Estrutura-Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao6-Estruturas-Repetitivas/Secao6-Estruturas-Repetitivas.iml" filepath="$PROJECT_DIR$/Secao6-Estruturas-Repetitivas/Secao6-Estruturas-Repetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao7-Outros-Topicos/Secao7-Outros-Topicos.iml" filepath="$PROJECT_DIR$/Secao7-Outros-Topicos/Secao7-Outros-Topicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao8-Introducao-POO/Secao8-Introducao-POO.iml" filepath="$PROJECT_DIR$/Secao8-Introducao-POO/Secao8-Introducao-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secao9-Construtores-This-Sobrecarga-Encapsulamento/Secao9-Construtores-This-Sobrecarga-Encapsulamento.iml" filepath="$PROJECT_DIR$/Secao9-Construtores-This-Sobrecarga-Encapsulamento/Secao9-Construtores-This-Sobrecarga-Encapsulamento.iml" />
+    </modules>
+  </component>
+</project>

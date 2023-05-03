@@ -1,0 +1,8 @@
+PALAVRA THIS
+
+    * É uma referência para o próprio objeti
+
+    * Usos Comuns:
+
+        * Diferenciar atributos de variáveis locais.
+        * Passar o próprio objeto como argumento na chamada de um método ou construtor.

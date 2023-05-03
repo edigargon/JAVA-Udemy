@@ -1,0 +1,25 @@
+Exercicio 1
+
+    Fazer um programa para ler os valores da largura e altura de um retângulo. Em
+    seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar
+    uma classe como mostrado no projeto.
+
+    --------------------------------
+    |         Rectangle            |
+    --------------------------------
+    | - Width: double              |
+    | - Height: double             |
+    --------------------------------
+    | + Area(): double             | area = width * heigth
+    | + Perimeter(): double        | perimeter = 2*(width + heigth)
+    | + Diagonal(): double         | diagonal.raizquadrada = (width*2)+(heigth*2)
+    --------------------------------
+
+    Exemplo:
+
+        Enter rectangle width and height:
+        (3.00)
+        (4.00)
+        AREA = 12.00
+        PERIMETER = 14.00
+        DIAGONAL = 5.00

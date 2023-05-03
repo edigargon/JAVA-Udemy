@@ -1,0 +1,30 @@
+Exercicio 2
+
+    Fazer um programa para ler os dados de um funcinoário(nome, salário bruto e impostos).
+    Em seguida, mostrar os dados do funcionário(nome e salario liquido). Em seguida,
+    aumentar o salario do funcionário com base em uma porcentagem dada(somente o salário
+    bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use
+    a classe projetada abaixo.
+
+    ----------------------------------------------
+    |                   Employee                 |
+    ----------------------------------------------
+    | - Name: string                             |
+    | - GrossSalary: double                      |
+    | - Tax: double                              |
+    ----------------------------------------------
+    | + NetSalary(): double                      |
+    | + IncreaseSalary(percentage: double): void |
+    ----------------------------------------------
+
+    Exemplo:
+
+        Name: (Joao Silva)
+        Gross salary: (6000.00)
+        Tax: (1000.00)
+
+        Employee: Joao Silva, $ 5000.00
+
+        Which percentage to increase salary? (10.0)
+
+        Update data: Joao Silva, $ 5600.00
