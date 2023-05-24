@@ -1,4 +1,4 @@
-package vetores.exerciciosFixacao.numerosPares.application;
+package vetores.exerciciosFixacao.problemaNumerosPares.application;
 
 import java.util.Locale;
 import java.util.Scanner;
