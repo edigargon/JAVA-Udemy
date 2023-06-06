@@ -45,7 +45,10 @@ public class Program {
 
         double avg = sum / countF;
 
-        System.out.println();
+        System.out.printf("Menor Altura: %.2f%n", smaller);
+        System.out.printf("Maior Altura: %.2f%n", bigger);
+        System.out.printf("Média das Altura das Mulheres: %.2f%n", avg);
+        System.out.printf("Número de Homens: %d%n", countM);
         scanner.close();
     }
 
